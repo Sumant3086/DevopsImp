@@ -1,0 +1,1 @@
+"Hello there! this is the info inside the prac2.txt"
